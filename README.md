@@ -1,8 +1,8 @@
 ## Aplicación de clima
 
-Poner descripcion aqui
+Aplicación que devuelve la temperatura de una ciudad pasada por línea de comando.
 
-Lo primero es hacer 
+Lo primero es hacer:
 ```
 npm install
 ```
